@@ -1,0 +1,226 @@
+Date,Shift,Machine,ActualOutput,TargetOutput,GoodUnits,ScrapUnits,OEE(%),Downtime(minutes),DefectRate(%),DowntimeReason
+2025-11-24,Morning,CNC-01,302,472,296,6,77.96,112,1.99,Material Shortage
+2025-11-24,Morning,Press-04,666,780,634,32,85.99,109,4.8,Sensor Error
+2025-11-24,Morning,Robot-A2,861,1018,845,16,88.16,11,1.86,Setup
+2025-11-24,Morning,CNC-06,476,536,458,18,75.74,117,3.78,Mechanical Failure
+2025-11-24,Morning,Press-03,760,718,735,25,61.4,69,3.29,Sensor Error
+2025-11-24,Afternoon,CNC-01,766,909,748,18,61.39,60,2.35,Operator Delay
+2025-11-24,Afternoon,Press-04,366,539,363,3,88.97,18,0.82,Material Shortage
+2025-11-24,Afternoon,Robot-A2,764,755,740,24,63.66,17,3.14,Sensor Error
+2025-11-24,Afternoon,CNC-06,405,385,389,16,79.88,11,3.95,Material Shortage
+2025-11-24,Afternoon,Press-03,676,766,667,9,73.49,83,1.33,Setup
+2025-11-24,Night,CNC-01,469,639,447,22,65.88,71,4.69,Operator Delay
+2025-11-24,Night,Press-04,537,489,524,13,88.96,69,2.42,Setup
+2025-11-24,Night,Robot-A2,692,632,666,26,64.96,98,3.76,Mechanical Failure
+2025-11-24,Night,CNC-06,543,571,520,23,60.17,20,4.24,Sensor Error
+2025-11-24,Night,Press-03,792,854,780,12,78.18,115,1.52,Material Shortage
+2025-11-23,Morning,CNC-01,240,167,237,3,78.7,43,1.25,Mechanical Failure
+2025-11-23,Morning,Press-04,247,208,238,9,81.89,113,3.64,Sensor Error
+2025-11-23,Morning,Robot-A2,746,872,712,34,81.4,10,4.56,Operator Delay
+2025-11-23,Morning,CNC-06,417,571,400,17,61.21,88,4.08,Material Shortage
+2025-11-23,Morning,Press-03,753,831,716,37,79.09,61,4.91,Operator Delay
+2025-11-23,Afternoon,CNC-01,295,416,282,13,78.13,24,4.41,Sensor Error
+2025-11-23,Afternoon,Press-04,740,675,734,6,77.97,95,0.81,Setup
+2025-11-23,Afternoon,Robot-A2,777,846,766,11,79.0,15,1.42,Setup
+2025-11-23,Afternoon,CNC-06,227,234,217,10,86.78,84,4.41,Material Shortage
+2025-11-23,Afternoon,Press-03,547,677,541,6,68.16,36,1.1,Mechanical Failure
+2025-11-23,Night,CNC-01,827,959,796,31,64.94,36,3.75,Mechanical Failure
+2025-11-23,Night,Press-04,517,581,507,10,68.08,33,1.93,Sensor Error
+2025-11-23,Night,Robot-A2,573,632,557,16,81.09,71,2.79,Mechanical Failure
+2025-11-23,Night,CNC-06,641,592,616,25,80.89,12,3.9,Mechanical Failure
+2025-11-23,Night,Press-03,812,824,807,5,68.0,11,0.62,Material Shortage
+2025-11-22,Morning,CNC-01,419,372,398,21,70.35,10,5.01,Sensor Error
+2025-11-22,Morning,Press-04,837,866,815,22,73.43,79,2.63,Setup
+2025-11-22,Morning,Robot-A2,638,740,616,22,67.26,47,3.45,Operator Delay
+2025-11-22,Morning,CNC-06,809,906,783,26,84.49,25,3.21,Mechanical Failure
+2025-11-22,Morning,Press-03,400,423,389,11,80.87,12,2.75,Setup
+2025-11-22,Afternoon,CNC-01,602,648,581,21,62.89,114,3.49,Mechanical Failure
+2025-11-22,Afternoon,Press-04,839,777,832,7,64.13,101,0.83,Mechanical Failure
+2025-11-22,Afternoon,Robot-A2,672,722,654,18,80.87,16,2.68,Setup
+2025-11-22,Afternoon,CNC-06,343,354,334,9,75.89,11,2.62,Mechanical Failure
+2025-11-22,Afternoon,Press-03,503,656,498,5,87.01,18,0.99,Mechanical Failure
+2025-11-22,Night,CNC-01,298,344,292,6,86.91,33,2.01,Mechanical Failure
+2025-11-22,Night,Press-04,827,801,820,7,83.56,113,0.85,Setup
+2025-11-22,Night,Robot-A2,453,579,437,16,88.2,34,3.53,Operator Delay
+2025-11-22,Night,CNC-06,537,630,526,11,79.56,50,2.05,Setup
+2025-11-22,Night,Press-03,360,327,345,15,69.76,29,4.17,Sensor Error
+2025-11-21,Morning,CNC-01,600,627,585,15,62.81,95,2.5,Operator Delay
+2025-11-21,Morning,Press-04,762,925,745,17,83.84,39,2.23,Mechanical Failure
+2025-11-21,Morning,Robot-A2,483,529,471,12,83.06,26,2.48,Setup
+2025-11-21,Morning,CNC-06,419,476,416,3,87.45,108,0.72,Setup
+2025-11-21,Morning,Press-03,236,415,227,9,76.58,104,3.81,Sensor Error
+2025-11-21,Afternoon,CNC-01,899,914,865,34,71.55,96,3.78,Mechanical Failure
+2025-11-21,Afternoon,Press-04,455,482,439,16,71.84,63,3.52,Material Shortage
+2025-11-21,Afternoon,Robot-A2,522,595,498,24,78.45,95,4.6,Material Shortage
+2025-11-21,Afternoon,CNC-06,838,892,807,31,69.68,113,3.7,Mechanical Failure
+2025-11-21,Afternoon,Press-03,592,790,581,11,76.58,51,1.86,Material Shortage
+2025-11-21,Night,CNC-01,607,519,578,29,60.16,45,4.78,Operator Delay
+2025-11-21,Night,Press-04,219,382,214,5,83.87,85,2.28,Sensor Error
+2025-11-21,Night,Robot-A2,670,712,647,23,62.82,96,3.43,Sensor Error
+2025-11-21,Night,CNC-06,864,949,841,23,68.6,67,2.66,Material Shortage
+2025-11-21,Night,Press-03,541,620,514,27,69.1,116,4.99,Setup
+2025-11-20,Morning,CNC-01,812,975,799,13,66.47,14,1.6,Setup
+2025-11-20,Morning,Press-04,549,495,538,11,64.15,25,2.0,Operator Delay
+2025-11-20,Morning,Robot-A2,569,592,558,11,61.23,72,1.93,Sensor Error
+2025-11-20,Morning,CNC-06,803,760,765,38,60.76,71,4.73,Mechanical Failure
+2025-11-20,Morning,Press-03,840,797,832,8,73.27,105,0.95,Mechanical Failure
+2025-11-20,Afternoon,CNC-01,687,823,661,26,88.65,112,3.78,Operator Delay
+2025-11-20,Afternoon,Press-04,446,421,435,11,64.76,95,2.47,Mechanical Failure
+2025-11-20,Afternoon,Robot-A2,484,603,460,24,61.22,119,4.96,Setup
+2025-11-20,Afternoon,CNC-06,652,755,619,33,82.9,94,5.06,Setup
+2025-11-20,Afternoon,Press-03,488,641,473,15,71.96,19,3.07,Operator Delay
+2025-11-20,Night,CNC-01,299,488,287,12,60.46,28,4.01,Material Shortage
+2025-11-20,Night,Press-04,807,963,786,21,80.52,25,2.6,Material Shortage
+2025-11-20,Night,Robot-A2,696,755,690,6,77.26,59,0.86,Sensor Error
+2025-11-20,Night,CNC-06,579,511,561,18,76.37,110,3.11,Setup
+2025-11-20,Night,Press-03,776,843,768,8,65.87,22,1.03,Setup
+2025-11-19,Morning,CNC-01,806,958,769,37,80.49,90,4.59,Material Shortage
+2025-11-19,Morning,Press-04,804,793,776,28,67.82,16,3.48,Setup
+2025-11-19,Morning,Robot-A2,700,713,684,16,86.32,45,2.29,Mechanical Failure
+2025-11-19,Morning,CNC-06,476,624,463,13,72.7,33,2.73,Sensor Error
+2025-11-19,Morning,Press-03,888,886,860,28,71.16,112,3.15,Operator Delay
+2025-11-19,Afternoon,CNC-01,568,650,558,10,82.64,114,1.76,Mechanical Failure
+2025-11-19,Afternoon,Press-04,261,244,257,4,69.6,68,1.53,Sensor Error
+2025-11-19,Afternoon,Robot-A2,376,375,357,19,87.16,85,5.05,Mechanical Failure
+2025-11-19,Afternoon,CNC-06,654,837,649,5,88.52,92,0.76,Material Shortage
+2025-11-19,Afternoon,Press-03,566,609,549,17,68.8,34,3.0,Setup
+2025-11-19,Night,CNC-01,668,620,658,10,83.69,118,1.5,Operator Delay
+2025-11-19,Night,Press-04,241,326,229,12,76.49,14,4.98,Sensor Error
+2025-11-19,Night,Robot-A2,414,534,399,15,63.51,85,3.62,Mechanical Failure
+2025-11-19,Night,CNC-06,273,425,269,4,72.78,49,1.47,Material Shortage
+2025-11-19,Night,Press-03,592,774,581,11,62.44,46,1.86,Sensor Error
+2025-11-18,Morning,CNC-01,847,891,840,7,89.58,13,0.83,Setup
+2025-11-18,Morning,Press-04,269,420,256,13,83.31,63,4.83,Sensor Error
+2025-11-18,Morning,Robot-A2,730,668,707,23,67.61,101,3.15,Material Shortage
+2025-11-18,Morning,CNC-06,859,759,842,17,67.13,72,1.98,Setup
+2025-11-18,Morning,Press-03,568,584,564,4,60.36,41,0.7,Operator Delay
+2025-11-18,Afternoon,CNC-01,348,327,338,10,89.79,110,2.87,Setup
+2025-11-18,Afternoon,Press-04,426,472,423,3,75.69,114,0.7,Mechanical Failure
+2025-11-18,Afternoon,Robot-A2,725,767,703,22,78.83,12,3.03,Mechanical Failure
+2025-11-18,Afternoon,CNC-06,211,334,200,11,71.84,33,5.21,Setup
+2025-11-18,Afternoon,Press-03,572,479,547,25,79.41,17,4.37,Material Shortage
+2025-11-18,Night,CNC-01,515,592,495,20,70.81,109,3.88,Sensor Error
+2025-11-18,Night,Press-04,701,745,674,27,72.34,86,3.85,Setup
+2025-11-18,Night,Robot-A2,757,691,747,10,88.49,78,1.32,Mechanical Failure
+2025-11-18,Night,CNC-06,649,558,643,6,85.98,118,0.92,Operator Delay
+2025-11-18,Night,Press-03,318,506,313,5,74.41,58,1.57,Sensor Error
+2025-11-17,Morning,CNC-01,481,443,465,16,84.87,58,3.33,Operator Delay
+2025-11-17,Morning,Press-04,809,813,783,26,68.2,64,3.21,Setup
+2025-11-17,Morning,Robot-A2,844,1002,822,22,83.07,46,2.61,Material Shortage
+2025-11-17,Morning,CNC-06,657,639,631,26,73.52,119,3.96,Mechanical Failure
+2025-11-17,Morning,Press-03,250,322,244,6,66.86,113,2.4,Material Shortage
+2025-11-17,Afternoon,CNC-01,547,541,522,25,80.15,43,4.57,Sensor Error
+2025-11-17,Afternoon,Press-04,505,672,498,7,89.04,103,1.39,Sensor Error
+2025-11-17,Afternoon,Robot-A2,600,611,582,18,72.62,110,3.0,Operator Delay
+2025-11-17,Afternoon,CNC-06,777,751,745,32,64.09,107,4.12,Material Shortage
+2025-11-17,Afternoon,Press-03,297,482,289,8,62.73,107,2.69,Setup
+2025-11-17,Night,CNC-01,448,513,434,14,87.31,39,3.12,Material Shortage
+2025-11-17,Night,Press-04,762,742,756,6,64.41,65,0.79,Mechanical Failure
+2025-11-17,Night,Robot-A2,529,701,508,21,73.77,43,3.97,Operator Delay
+2025-11-17,Night,CNC-06,649,753,622,27,77.39,84,4.16,Sensor Error
+2025-11-17,Night,Press-03,310,458,300,10,77.54,84,3.23,Setup
+2025-11-16,Morning,CNC-01,559,642,541,18,86.23,36,3.22,Operator Delay
+2025-11-16,Morning,Press-04,871,831,834,37,61.23,14,4.25,Material Shortage
+2025-11-16,Morning,Robot-A2,803,872,769,34,62.66,10,4.23,Operator Delay
+2025-11-16,Morning,CNC-06,432,343,414,18,70.93,87,4.17,Material Shortage
+2025-11-16,Morning,Press-03,272,453,268,4,78.84,65,1.47,Sensor Error
+2025-11-16,Afternoon,CNC-01,247,207,234,13,86.05,17,5.26,Mechanical Failure
+2025-11-16,Afternoon,Press-04,452,531,433,19,71.11,95,4.2,Material Shortage
+2025-11-16,Afternoon,Robot-A2,227,204,220,7,82.42,23,3.08,Sensor Error
+2025-11-16,Afternoon,CNC-06,511,417,501,10,85.33,116,1.96,Setup
+2025-11-16,Afternoon,Press-03,473,666,460,13,67.27,98,2.75,Operator Delay
+2025-11-16,Night,CNC-01,227,328,221,6,85.22,95,2.64,Material Shortage
+2025-11-16,Night,Press-04,325,524,312,13,70.29,34,4.0,Setup
+2025-11-16,Night,Robot-A2,593,559,580,13,74.39,109,2.19,Material Shortage
+2025-11-16,Night,CNC-06,822,985,802,20,76.93,51,2.43,Mechanical Failure
+2025-11-16,Night,Press-03,812,717,804,8,78.23,68,0.99,Sensor Error
+2025-11-15,Morning,CNC-01,576,764,547,29,66.76,79,5.03,Setup
+2025-11-15,Morning,Press-04,549,543,522,27,85.27,12,4.92,Sensor Error
+2025-11-15,Morning,Robot-A2,742,681,728,14,89.92,15,1.89,Material Shortage
+2025-11-15,Morning,CNC-06,667,786,661,6,60.16,103,0.9,Sensor Error
+2025-11-15,Morning,Press-03,773,866,753,20,77.15,60,2.59,Operator Delay
+2025-11-15,Afternoon,CNC-01,499,531,478,21,69.71,28,4.21,Setup
+2025-11-15,Afternoon,Press-04,424,343,407,17,63.45,99,4.01,Operator Delay
+2025-11-15,Afternoon,Robot-A2,338,496,321,17,70.1,19,5.03,Operator Delay
+2025-11-15,Afternoon,CNC-06,849,920,814,35,80.54,93,4.12,Mechanical Failure
+2025-11-15,Afternoon,Press-03,518,518,492,26,63.5,24,5.02,Sensor Error
+2025-11-15,Night,CNC-01,805,799,798,7,84.92,117,0.87,Material Shortage
+2025-11-15,Night,Press-04,533,569,511,22,71.38,10,4.13,Setup
+2025-11-15,Night,Robot-A2,548,714,540,8,66.05,39,1.46,Sensor Error
+2025-11-15,Night,CNC-06,364,268,349,15,79.01,71,4.12,Setup
+2025-11-15,Night,Press-03,800,936,781,19,80.49,81,2.38,Sensor Error
+2025-11-14,Morning,CNC-01,836,758,810,26,77.32,26,3.11,Mechanical Failure
+2025-11-14,Morning,Press-04,702,705,674,28,76.29,79,3.99,Sensor Error
+2025-11-14,Morning,Robot-A2,590,668,569,21,64.18,24,3.56,Operator Delay
+2025-11-14,Morning,CNC-06,488,618,476,12,89.93,66,2.46,Mechanical Failure
+2025-11-14,Morning,Press-03,610,798,580,30,77.1,19,4.92,Operator Delay
+2025-11-14,Afternoon,CNC-01,834,851,823,11,63.32,109,1.32,Operator Delay
+2025-11-14,Afternoon,Press-04,415,498,403,12,76.2,38,2.89,Setup
+2025-11-14,Afternoon,Robot-A2,884,913,840,44,77.95,45,4.98,Setup
+2025-11-14,Afternoon,CNC-06,482,450,475,7,88.77,113,1.45,Material Shortage
+2025-11-14,Afternoon,Press-03,501,618,489,12,75.18,98,2.4,Mechanical Failure
+2025-11-14,Night,CNC-01,822,825,813,9,87.96,109,1.09,Setup
+2025-11-14,Night,Press-04,332,524,325,7,64.58,101,2.11,Material Shortage
+2025-11-14,Night,Robot-A2,250,178,238,12,85.21,20,4.8,Mechanical Failure
+2025-11-14,Night,CNC-06,812,821,778,34,85.12,10,4.19,Sensor Error
+2025-11-14,Night,Press-03,860,896,824,36,83.63,35,4.19,Mechanical Failure
+2025-11-13,Morning,CNC-01,774,917,754,20,87.6,11,2.58,Material Shortage
+2025-11-13,Morning,Press-04,674,590,658,16,60.99,60,2.37,Mechanical Failure
+2025-11-13,Morning,Robot-A2,379,476,360,19,69.34,38,5.01,Sensor Error
+2025-11-13,Morning,CNC-06,861,914,818,43,79.91,80,4.99,Mechanical Failure
+2025-11-13,Morning,Press-03,283,359,275,8,85.82,72,2.83,Operator Delay
+2025-11-13,Afternoon,CNC-01,559,507,538,21,69.3,103,3.76,Sensor Error
+2025-11-13,Afternoon,Press-04,517,448,502,15,78.75,102,2.9,Sensor Error
+2025-11-13,Afternoon,Robot-A2,217,373,213,4,73.6,75,1.84,Setup
+2025-11-13,Afternoon,CNC-06,312,325,303,9,82.96,13,2.88,Mechanical Failure
+2025-11-13,Afternoon,Press-03,463,417,459,4,71.2,83,0.86,Sensor Error
+2025-11-13,Night,CNC-01,361,347,358,3,85.19,16,0.83,Operator Delay
+2025-11-13,Night,Press-04,207,353,199,8,65.88,81,3.86,Mechanical Failure
+2025-11-13,Night,Robot-A2,438,566,419,19,79.58,17,4.34,Material Shortage
+2025-11-13,Night,CNC-06,295,282,289,6,85.67,116,2.03,Setup
+2025-11-13,Night,Press-03,699,763,668,31,72.19,64,4.43,Material Shortage
+2025-11-12,Morning,CNC-01,206,368,202,4,85.44,28,1.94,Setup
+2025-11-12,Morning,Press-04,484,571,475,9,87.32,78,1.86,Setup
+2025-11-12,Morning,Robot-A2,722,855,712,10,70.89,21,1.39,Setup
+2025-11-12,Morning,CNC-06,460,652,445,15,76.56,107,3.26,Operator Delay
+2025-11-12,Morning,Press-03,699,878,667,32,76.97,68,4.58,Mechanical Failure
+2025-11-12,Afternoon,CNC-01,314,422,302,12,76.25,118,3.82,Mechanical Failure
+2025-11-12,Afternoon,Press-04,558,658,533,25,85.05,13,4.48,Material Shortage
+2025-11-12,Afternoon,Robot-A2,641,569,613,28,68.17,84,4.37,Material Shortage
+2025-11-12,Afternoon,CNC-06,327,268,319,8,68.22,26,2.45,Operator Delay
+2025-11-12,Afternoon,Press-03,352,327,337,15,60.33,94,4.26,Sensor Error
+2025-11-12,Night,CNC-01,486,519,477,9,67.52,118,1.85,Mechanical Failure
+2025-11-12,Night,Press-04,654,726,645,9,72.13,71,1.38,Material Shortage
+2025-11-12,Night,Robot-A2,757,720,731,26,88.76,74,3.43,Sensor Error
+2025-11-12,Night,CNC-06,892,1083,878,14,62.05,20,1.57,Sensor Error
+2025-11-12,Night,Press-03,711,774,698,13,68.91,108,1.83,Material Shortage
+2025-11-11,Morning,CNC-01,254,264,252,2,64.05,65,0.79,Mechanical Failure
+2025-11-11,Morning,Press-04,747,885,718,29,77.85,116,3.88,Mechanical Failure
+2025-11-11,Morning,Robot-A2,706,806,695,11,63.2,82,1.56,Mechanical Failure
+2025-11-11,Morning,CNC-06,840,956,824,16,77.95,34,1.9,Sensor Error
+2025-11-11,Morning,Press-03,330,458,313,17,89.03,111,5.15,Material Shortage
+2025-11-11,Afternoon,CNC-01,723,897,697,26,84.22,58,3.6,Operator Delay
+2025-11-11,Afternoon,Press-04,216,172,209,7,65.55,71,3.24,Sensor Error
+2025-11-11,Afternoon,Robot-A2,860,840,842,18,80.77,79,2.09,Mechanical Failure
+2025-11-11,Afternoon,CNC-06,665,653,651,14,80.8,114,2.11,Operator Delay
+2025-11-11,Afternoon,Press-03,737,683,701,36,77.65,26,4.88,Material Shortage
+2025-11-11,Night,CNC-01,285,434,274,11,63.62,16,3.86,Mechanical Failure
+2025-11-11,Night,Press-04,887,1001,874,13,82.35,48,1.47,Sensor Error
+2025-11-11,Night,Robot-A2,601,603,571,30,77.89,108,4.99,Setup
+2025-11-11,Night,CNC-06,387,384,383,4,75.91,99,1.03,Setup
+2025-11-11,Night,Press-03,238,152,234,4,76.15,95,1.68,Mechanical Failure
+2025-11-10,Morning,CNC-01,596,705,580,16,72.8,117,2.68,Material Shortage
+2025-11-10,Morning,Press-04,510,636,504,6,60.64,22,1.18,Operator Delay
+2025-11-10,Morning,Robot-A2,473,468,466,7,89.94,38,1.48,Mechanical Failure
+2025-11-10,Morning,CNC-06,676,820,656,20,77.42,117,2.96,Mechanical Failure
+2025-11-10,Morning,Press-03,465,429,446,19,63.31,23,4.09,Material Shortage
+2025-11-10,Afternoon,CNC-01,523,568,502,21,61.26,74,4.02,Operator Delay
+2025-11-10,Afternoon,Press-04,784,823,778,6,83.94,110,0.77,Sensor Error
+2025-11-10,Afternoon,Robot-A2,579,676,575,4,86.53,97,0.69,Sensor Error
+2025-11-10,Afternoon,CNC-06,261,386,249,12,89.74,68,4.6,Setup
+2025-11-10,Afternoon,Press-03,774,916,753,21,66.92,107,2.71,Mechanical Failure
+2025-11-10,Night,CNC-01,417,557,414,3,84.79,14,0.72,Operator Delay
+2025-11-10,Night,Press-04,253,199,242,11,75.55,29,4.35,Material Shortage
+2025-11-10,Night,Robot-A2,772,849,750,22,89.89,12,2.85,Sensor Error
+2025-11-10,Night,CNC-06,319,307,311,8,77.4,107,2.51,Sensor Error
+2025-11-10,Night,Press-03,816,838,779,37,86.66,34,4.53,Material Shortage
